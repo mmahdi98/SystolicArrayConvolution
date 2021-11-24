@@ -1,4 +1,5 @@
-//in the name of God
+// In the name of God
+// Written by MohammadMahdi Momenzadeh @mmahdi98
 module Reg8_1(out,in,clk,ctrl);
     input ctrl;
     output [7:0]out;
