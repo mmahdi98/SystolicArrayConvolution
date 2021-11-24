@@ -7,7 +7,7 @@
 * [3x3 kernel](3x3_kernel.v), that is implemented in an 8bit approach.
 * [5x5 kernel](5X5_kernel.v), 8bit too.
 * [7x7 kernel](7x7_kernel.v), 8bit too.
-* One of the challenging parts was implementing the multiplier which was used in the original architecture, you can see the schema of it in [here](bitwise_multiplier.jpg)
+* One of the challenging parts was implementing the multiplier which was used in the original architecture, you can see the schema of it in [here](Multiplier_bitwise_pe.jpg)
 
 
 
