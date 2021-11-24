@@ -9,7 +9,9 @@
 * [7x7 kernel](7x7_kernel.v), 8bit too.
 * One of the challenging parts was implementing the multiplier which was used in the original design, you can see the schema of it in [here](bitwise_pe_multiplier.jpg)
 
-
+### TODO
+- [ ] Adding schema of bitwise original design  
+- [ ] Adding schema of 8bit serial design
 
 *for educational or scientific usage, please cite this repository*
 
