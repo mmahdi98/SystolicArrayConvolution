@@ -11,5 +11,5 @@
 
 
 
-*for educational or scientific affairs, please cite this repository*
+*for educational or scientific usage, please cite this repository*
 
