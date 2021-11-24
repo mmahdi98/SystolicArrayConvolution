@@ -9,3 +9,7 @@
 * [7x7 kernel](7x7_kernel.v), 8bit too.
 
 
+
+
+*for educational or scientific affairs, please cite this repository*
+
